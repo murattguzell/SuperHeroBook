@@ -1,20 +1,26 @@
 <resources>
     <string name="app_name">SuperHeroBook</string>
+
     <string name="superman_head">SUPERMAN</string>
-    <string name="superman_features">Gerçek kimliğini gizlemek için Clark Kent adını kullanır.
-        1.91 m boyunda ve 102 kilodur.
-        Jor-El ve annesi Lara Lor Van tarafından
-        patlamak üzere olan Krypton gezegeninden
-        kurtulması için bir roket ile
-        Dünyaya gönderilir. Jor Elin Kal-Eli Dünyaya göndermesinin sebebi sarı güneşin ona çok üstün
-        güçler vereceğini bilmesidir. Kansasta Smallville kasabası
-        yakınlarına düşen Kal-Eli Martha ve Jonathan Kent isminde
-        iki çiftçi bulur ve ona Clark ismini vererek kendi
-        çocukları gibi yetiştirirler. Üniversiteyi
-        okumak için Metropolis kentine gelir.
-        Üniversiteyi bitirince Daily Planet
-        gazetesinde işe başlar.Burada Lois Lane ile tanışır ve olaylar gelişir.
-        Superman ismini ona veren Lois Lane'dir. Ayrıca birçok lakabı vardır.
-        Bunlardan bazıları: "The Man of Steel", "The Man of Tomorrow" ve "The Last Son of Krypton".
-        Anlamları ise "Çelik Adam", "Yarının Adamı" ve "Kripton'nun Son Oğlu".</string>
+    <string name="superman_features">Annesi onu bilerek Dünyaya göndermiştir. Çünkü sarı güneşin ona üstün güçler vereceğini biliyordur. Smallville kasabasına düşen Kal-Eli yani Supermani Martha ve Jonathan Kent isimli bir çift bulmuştur. Ona Clark ismini vererek kendi çocukları gibi yetiştirmişlerdir. Üniversiteyi Metropolis kentinde okuyan Clark, daha sonra Daily Planet gazetesinde işe başlar. Burada Lois Lane ile tanışır.
+Karakterin güçlerine gelecek olursak Supermanin X-ray görüşü, teleskobik görüş, mikroskobik görüş ve benzeri görüş yetenekleri bulunmaktadır. Ayrıca Supermanin süper ses, süper nefes, dayanıklılık, süper güç, süper hız, solar enerji emme, yaralanmazlık, süper zeka ve uçabilme yetenekleri de bulunuyor. Zayıf noktası ise Kriptonit gezegeninin parçalarıdır.
+    </string>
+
+    <string name="batman_head">BATMAN</string>
+    <string name="batman_features">Batman yani Bruce Wayne ilk olarak 1939 yılında Detective Comics’in 27. sayısında görünmüştür. Karakter her ne kadar Bob Kane ve Bill Finger tarafından yaratılsa da çizgi romanlarda sadece Bob Kane’in adı geçmektedir. Gerçek adı Bruce Wayne’dir. Wayne ailesi Gotham’ın en zengin ailesidir. Bruce, annesi Martha ve babası Thomas ile mutlu bir çocukluk geçirmektedir.
+
+Bruce küçük yaşlardayken odasının camından giren bir yarasadan çok korkar. Sonrasında da kendi korkularını gücüne çevirerek yarasa figürünü Gotham’daki suçluların korkulu rüyası yapacaktır. Babası ve annesiyle sinemaya gittiği bir gece, filmden erken çıkarlar ve bir arka sokakta yürümeye başlarlar. Silahlı bir hırsız onların yolunu keser ve Martha’nın boynundaki inci kolyeyi ister. Hırsızla konuşmaya çalışan Thomas öne doğru adım attığında hırsız korkarak Thomas’ı vurur. Kocasına yardım etmek isteyen Martha da yanlış bir hareket yaparak vurulan diğer kişi olur. Annesini ve babasını kaybeden Bruce’u uşakları Alfred büyütür.
+
+Yıllarca kendini geliştiren Bruce, Gotham’daki suçluları temizlemeye başlar. Yozlaşmış birçok polis olduğu için bir kanunsuz olarak Batman kimliğiyle bu işi yapar. Komiser Gordon ile çatıdaki Yarasa Sinyali sayesinde haberleşir. Bruce kimliğiyle ve parasıyla Gotham’a yardım ederken bir yandan da Batman kimliğiyle suçlularla savaşır.
+    </string>
+
+    <string name="ironman_head">IRON MAN</string>
+    <string name="ironman_features">Iron Man (Türkçe: Demir Adam), Amerika merkezli çizgi roman şirketi Marvel Comics tarafından yayımlanan çizgi romanlarda görülen kurgusal karakter.[1] Gerçek isminin Anthony Edward Stark olmasına karşın daha çok Tony Stark olarak tanınmaktadır. İlk olarak Mart 1963 te, 1959-1968 yılları arasında yayımlanan "Tales of Suspense" isimli çizgi roman serisinin 39. sayısında (Tales of Suspense #39 - Iron Man is Born!) görünmüştür.Karakterin ilk hikâyesi Stan Lee ve kardeşi Larry Lieber tarafından yazılmış olup Don Heck tarafından çizilmiştir. Jack Kirby ise karakterin orijinal savaş zırhını tasarlamıştır.[4] İlk görünüşünün ardından Eylül 1963 te; Thor, Hulk, Ant-Man ve Wasp ile birlikte Avengers (Yenilmezler) ekibini kurmuş ve Mayıs 1968 de kendisine ait çizgi roman serisine (Iron Man#1) başlamıştır.Çizgi roman tarihi boyunca Iron Man, Avengers ekibinin kurucu üyelerinden biri olmuştur ve çeşitli çizgi roman serilerinde yer almıştır.[5] Marvel, çizgi romanlardan sonra animasyon dizilerinde ve filmlerde de Iron Man e yer vermiştir. Marvel Sinematik Evreni nde Tony Stark / Iron Man karakteri Robert Downey Jr. tarafından canlandırılmıştır.
+        Güçleri. Stark ın yaptığı zırh çok fonksiyonludur. Zırhın bilgisayarı J.A.R.V.I.S sayesinde düşmanlarını kolayca yenebilir. Zırhında çok gelişmiş güçlü ve akıllı füzeler, değdiği yeri yok eden lazerler, manyetik kalkanlar, püskürtücü ışınlar (Repulsor) ve ayaklarında uçmaya yarayan roketleri vardır.
+    </string>
+
+    <string name="spiderman_head">SPIDERMAN</string>
+    <string name="spiderman_features">Marvel Comics tarafından yayınlanan Amerikan çizgi romanlarında görünen bir süper kahramandır. Yazar-editör Stan Lee ve sanatçı Steve Ditko tarafından yaratıldı, ilk olarak Silver Age of Comic Books ta antoloji çizgi romanı Amazing Fantasy #15 te (Ağustos 1962) göründü. O zamandan beri filmlerde, televizyon şovlarında, video oyunlarında ve oyunlarda yer aldı. Örümcek Adam, May Teyze ve Ben Amca tarafından New York ta ebeveynlerinden sonra büyütülen yetim Peter Parker ın takma adıdır. Richard ve Mary Parker bir uçak kazasında öldüler. Lee ve Ditko, karakterin ergenlik ve finansal sorunlarla mücadelesini ele aldı ve ona Flash Thompson, J. Jonah Jameson ve Harry Osborn gibi birçok destekleyici karakter verdi; romantik ilgi alanları Gwen Stacy, Mary Jane Watson, Kara Kedi; Doktor Octopus, Green Goblin ve Venom gibi düşmanlar. Onun başlangıç hikayesinde, radyoaktif bir örümceğin ısırmasından örümcekle ilgili güçler ve yetenekler alır; bunlar arasında yüzeylere tutunma, insanüstü güç ve çeviklik ve "örümcek hissi" ile tehlikeyi tespit etme sayılabilir. Ayrıca, kendi tasarımı olan yapay örümcek ağlarını çeken, bileğe takılan "ağ atıcı" cihazlar da yapıyor
+    </string>
+
 </resources>
