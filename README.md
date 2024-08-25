@@ -1,38 +1,31 @@
-
 # Super Hero Book
 
+This project can be defined as a mobile application that introduces superheroes with a visual and text-based interface. This application, which runs on Android, allows users to switch between different superheroes by swiping and provides a title, features and an image for each hero.
 
-Bu proje, süper kahramanları görsel ve metin tabanlı bir arayüzle tanıtan bir mobil uygulama olarak tanımlanabilir. Android üzerinde çalışan bu uygulama, kullanıcıların farklı süper kahramanlar arasında kaydırarak geçiş yapmasını sağlar ve her kahraman için başlık, özellikler ve bir görsel sunar.
+## Features
 
+- Swipe Superhero Gallery:
+Horizontal Scrolling (Swipe): Users can switch between superheroes by touching and swiping the screen. This allows users to discover different heroes quickly and intuitively.
+Animated Transitions: Thanks to the ViewPager2 component, smooth and fluid animated transitions are made between pages. This makes the user experience more impressive.
+- Information Page for Each Hero:
+Title and Details: Each page includes the name and short features of the selected superhero. Users can quickly learn basic information about the heroes.
+Visual Presentation: Each superhero is presented with a distinct and eye-catching image. This allows users to more easily memorize the heroes in their visual memory.
+- User-Friendly Interface:
+Easy Navigation: The application is easy to use; users can access all superheroes with just a swipe. There are no complicated menus or buttons.
 
-## Özellikler
+Responsive Design: The application adapts to different screen sizes and resolutions. This allows users to have a comfortable experience on various devices (phone, tablet).
+- Minimalist and Clean Design:
+Organized and Understandable: The application interface is kept simple and organized so as not to disturb users. Users can access the information they want without any confusion.
+Ease of Use: The design and functions of the application are simplified so that even users who are not familiar with technology can easily understand.
 
-- Kaydırmalı Süper Kahraman Galerisi:
-Yatay Kaydırma (Swipe): Kullanıcılar, ekrana dokunarak ve kaydırarak süper kahramanlar arasında geçiş yapabilirler. Bu, kullanıcıların hızlı ve sezgisel bir şekilde farklı kahramanları keşfetmelerini sağlar.
-Animasyonlu Geçişler: ViewPager2 bileşeni sayesinde, sayfalar arasında yumuşak ve akıcı animasyonlu geçişler yapılır. Bu, kullanıcı deneyimini daha etkileyici hale getirir.
-- Her Kahraman için Bilgilendirme Sayfası:
-Başlık ve Detaylar: Her sayfa, seçilen süper kahramanın ismini ve kısa özelliklerini içerir. Kullanıcılar, kahramanlar hakkında temel bilgileri hızlıca öğrenebilirler.
-Görsel Sunum: Her süper kahraman, belirgin ve dikkat çekici bir görsel ile birlikte sunulur. Bu, kullanıcıların görsel hafızasında kahramanların daha kolay yer etmesini sağlar.
-- Kullanıcı Dostu Arayüz:
-Kolay Navigasyon: Uygulamanın kullanımı basittir; kullanıcılar sadece kaydırma hareketi ile tüm süper kahramanlara erişebilirler. Karmaşık menüler veya düğmeler yoktur.
-Responsive Tasarım: Uygulama, farklı ekran boyutlarına ve çözünürlüklere uyum sağlar. Bu, kullanıcıların çeşitli cihazlarda (telefon, tablet) rahat bir deneyim yaşamasını sağlar.
-- Minimalist ve Temiz Tasarım:
-Düzenli ve Anlaşılır: Uygulama arayüzü, kullanıcıları rahatsız etmeyecek şekilde sade ve düzenli tutulmuştur. Kullanıcılar, istedikleri bilgilere karmaşa yaşamadan erişebilir.
-Kolay Kullanım: Uygulamanın tasarımı ve işlevleri, teknolojiye aşina olmayan kullanıcıların bile kolayca anlayabileceği şekilde basitleştirilmiştir.
-
-  
-## Kullanılan Teknolojiler
+## Technologies Used
 
 **RecyclerView**
 
-**ViewPager2** 
+**ViewPager2**
 
-  
-## Ekran Görüntüleri
+## Screenshots
 
 |||||
 |------------------|------------------|------------------|------------------|
-| ![Ekran 1](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss1.png?raw=true) | ![Ekran 2](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss2.png?raw=true) | ![Ekran 3](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss3.png?raw=true) | ![Ekran 4](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss4.png?raw=true) |
-  
-
-  
+| ![Screen 1](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss1.png?raw=true) | ![Screen 2](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss2.png?raw=true) | ![Screen 3](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss3.png?raw=true) | ![Screen 4](https://github.com/murat-guzel33/myScreenShotFiles/blob/master/SuperHeroBook/Ss4.png?raw=true) |
